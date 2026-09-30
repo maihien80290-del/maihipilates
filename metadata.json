@@ -1,0 +1,6 @@
+{
+  "name": "MaiHi Pilates Management",
+  "description": "Hệ thống quản lý phòng tập Pilates, điểm danh, chấm công và tự động hóa tính lương HLV toàn diện",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
